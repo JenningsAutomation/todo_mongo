@@ -1,1 +1,2 @@
 # todo_mongo
+The purpose of this repository is to practice various technologies I've learned in a simple cohesive way. It seems like a todo app is almost as common as a hello world, so why not use it for a foundation to practice. My backend will consist of a python/flask backend connected to a mongoDB database. This will give me an opportunity to use Marshamllow and blueprints just for practice. I will later do a similar project with postgres and maybe neo4j. My front end will be ReactJS leaning heavily into MaterialUI. 
